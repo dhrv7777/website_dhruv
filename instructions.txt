@@ -1,0 +1,38 @@
+I'm looking for AI Product Management roles, so the website should position me accordingly. 
+
+Note:
+All the logos are in the assets/logos folder.
+My image is in assets/Dhruv_Arora.jpg
+
+Now, let's get into the elements of the landing page.
+
+Top header of the home page should contain following tabs (navigating to later sections of the page):
+a) Education
+b) Work Experience
+c) My relationship with AI
+d) Contact
+
+The home page should contain my photo on the right and following details on the left:
+a) The left panel should start with big bold text "Dhruv Arora" 
+b) Below my name, write in relatively small text: “All things AI and Strategy”
+
+
+Then scrolling down, the following sections will be: 
+a) Education
+This section should contain two blocks side by side. 
+    i) BITSoM - with text "MBA, Pursuing". Also use BITSoM logo
+    ii) IIT Mandi - with text "B.Tech (Electrical Eng), 2017-21". Again, use IIT Mandi logo
+
+b) Work Experience
+This section will contain the following:
+    i) Corporate Strategy Intern, Tata Communications (Use logo). Add dates "Mar 2025-June 2025". Add text "Evaluated new business opportunities in AI, built proof of concepts and outlined strategic roadmaps to build solutions across sectors and business functions." 
+    ii) Growth Intern, BigFig.AI (Use logo). Add dates "Dec 2024-Feb 2025". Add text "Worked with founder to launch GTM strategies, generate leads and experiment with product-led growth." 
+    iii) Software Engineer, Simcorp (Use logo). Add dates "Jul 23-Jun 24". Add text "Prototyped the deployment pipeline to help transform the service-based model of asset management solution into a SaaS-based model." 
+    iv) Software Engineer, Nference (Use logo). Add dates "Jul 21-May 23" Add text "Owned data generation pipeline processing EMR patient data from US' top healthcare institutes and public data across the web, to generate insights leveraging AI. Also onboarded US' pioneer cancer institute to our product." 
+    v) AI Projects, IIT Mandi (Use logo). Add text "Played with research papers by tuning parameters in neural networks, and integrating intermediate layers of image recognition (CNN), text generation (RNN), and logical reasoning (Neurons) together"
+
+
+c) My relationship with AI 
+
+
+d) Contact
